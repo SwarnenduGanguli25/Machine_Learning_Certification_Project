@@ -1,4 +1,4 @@
-# Machine_Learning_Certification_Project
+# Product_Recommendation_System
 Built a Recommender Engine for products using Word2Vec,
 Exploratory Data Analysis,
 Customer Segmentation using KMeans++,
